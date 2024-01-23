@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Developer**
 
-- 💬 Ask me about **Vanilla JS**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **shamimimran35@gmail.com**
 
