@@ -25,10 +25,11 @@
 <br>
 <br>
 <hr>
-<div style="display: flex; justify-content: space-between;">
-  <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api?username=iamshamimimran&show_icons=true&locale=en" alt="Shamim Imran" />
-  <img style="width: 30%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshamimimran&show_icons=true&locale=en&layout=compact" alt="Shamim Imran" />
-  <img style="width: 30%;" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshamimimran&" alt="Shamim Imran" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <hr>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
