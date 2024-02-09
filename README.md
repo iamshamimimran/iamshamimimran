@@ -1,7 +1,12 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Silkscreen&display=swap" rel="stylesheet">
+
+
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi 👋, I'm Shamim Imran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"><span style="font-family: 'Silkscreen', sans-serif;">A passionate frontend developer from <span style="background: linear-gradient(180deg, rgba(255,143,16,1) 0%, rgba(255,255,255,1) 35%, rgba(80,158,47,1) 100%); color: black; opacity: 0.5; border-radius: 5px; ">India</span></span></h3>
 <img align="right" width="400" src="https://media1.tenor.com/m/xFUGScgp7V8AAAAC/computer-code.gif" alt="boy coding" />
 
 
