@@ -19,6 +19,7 @@
 - 📫 How to reach me **shamimimran35@gmail.com**
   
 - 👨‍💻 All of my projects are available at [https://shamimimran.netlify.app/](https://shamimimran.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shamimimran.vercel.app/](https://shamimimran.vercel.app/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
