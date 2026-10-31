@@ -28,7 +28,7 @@
 - 📬 Let’s connect: shamimimran35@gmail.com
 
   
-- 👨‍💻 All of my projects are available at [https://shamimimran.atweb.cloud](https://shamimimran.atweb.cloud)
+- 👨‍💻 Projects are available at [https://shamimimran.atweb.cloud](https://shamimimran.atweb.cloud)
   
 <hr>
 <img src="https://raw.githubusercontent.com/Iamshamimimran/iamshamimimran/output/snake.svg" alt="Snake animation" />
